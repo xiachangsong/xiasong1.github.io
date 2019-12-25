@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 萌新-小松</title>
+    <link>https://xiasong1.github.io/categories/</link>
+    <description>Recent content in Categories on 萌新-小松</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xiasong1.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>其他</title>
+      <link>https://xiasong1.github.io/categories/%E5%85%B6%E4%BB%96/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiasong1.github.io/categories/%E5%85%B6%E4%BB%96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>japanese on 萌新-小松</title>
+    <link>https://xiasong1.github.io/tags/japanese/</link>
+    <description>Recent content in japanese on 萌新-小松</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xiasong1.github.io/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日本语</title>
+      <link>https://xiasong1.github.io/2019/12/japanese-test/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiasong1.github.io/2019/12/japanese-test/</guid>
+      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#binft{
+    display: block;
+    margin: -20px 0 10px 0;
+}
+
+
+#me_sidebar,#me_sidebar0{
+    cursor: pointer;
+}
+#me_sidebar:hover,#me_sidebar0:hover{
+    background-color: rgb(44, 150, 232);
+    border: 1px solid red;
+}
+
+.sidebar-profile-picture:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid black;
+}
+#about-card-picture:hover{
+    background-color: black;
+    cursor: pointer;
+}
